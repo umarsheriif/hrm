@@ -14,7 +14,7 @@
     <div class="container">
       <table>
         <tr>
-          <td class="brand">{{ config('app.name', 'HRM') }}</td>
+          <td class="brand">{{ config('app.name', 'qpix Portal') }}</td>
         </tr>
         <tr>
           <td>{!! $content !!}</td>
